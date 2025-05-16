@@ -1,0 +1,2 @@
+# Scalable-and-Cost-Efficient-AWS-Cloud-Architecture-for-Startups
+This project provides a practical guide for early-stage startups to design a scalable, secure, and cost-efficient cloud infrastructure using AWS. It offers insights into choosing the right services, optimizing free-tier usage, and planning for future growth all tailored to startups with limited resources looking to launch quickly and grow smartly.
