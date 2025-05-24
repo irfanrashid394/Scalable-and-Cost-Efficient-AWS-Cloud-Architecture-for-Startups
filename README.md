@@ -26,7 +26,7 @@ A fully deployed website is accessible demonstrating:
 - Serverless backend via **API Gateway + Lambda**
 - A working **Quote Generator API**
 
-🔗 [Live Demo URL] *(insert your URL here)*
+🔗 [Live Demo URL](https://d3rxx3g4d3pkbd.cloudfront.net)
 
 ---
 
@@ -35,6 +35,5 @@ A fully deployed website is accessible demonstrating:
 Complete documentation including architecture details, startup credits research, and cost optimization is available here:
 
 📘 [Documentation PDF](https://drive.google.com/drive/folders/1svAVoKyBN3GlPZnuUgB910-QvlQy8pYS?usp=sharing)
-📘 [Website Link](https://d3rxx3g4d3pkbd.cloudfront.net)
 
 ---
